@@ -450,12 +450,51 @@ body {
 }
 
 /* line 13, ../sass/_structure.scss */
+header, footer {
+  padding: 1em 0;
+}
+
+/* line 17, ../sass/_structure.scss */
+header {
+  margin: 0 0 3em 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* line 22, ../sass/_structure.scss */
+footer {
+  margin: 1em 0 0 0;
+}
+
+/* line 26, ../sass/_structure.scss */
 .rule {
   border: 0;
   height: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  margin: 2em 0;
+  margin: 1em 0;
+}
+
+/* line 34, ../sass/_structure.scss */
+ul.episodes {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* line 40, ../sass/_structure.scss */
+ul.episodes > li {
+  padding: 2em 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* line 45, ../sass/_structure.scss */
+ul.episodes > li h3 {
+  margin: 0.5em 0;
+}
+
+/* line 49, ../sass/_structure.scss */
+ul.episodes > li:last-child {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 /* line 1, ../sass/_type.scss */
@@ -464,9 +503,10 @@ body {
   font-style: normal;
   font-weight: 400;
   color: #505050;
+  background: #f2f2f2;
 }
 
-/* line 8, ../sass/_type.scss */
+/* line 9, ../sass/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "omnes-pro",sans-serif;
   font-style: normal;
@@ -476,8 +516,13 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.2em;
 }
 
-/* line 17, ../sass/_type.scss */
+/* line 18, ../sass/_type.scss */
 a {
   text-decoration: none;
   color: #ff5959;
+}
+
+/* line 23, ../sass/_type.scss */
+.date {
+  margin: 0;
 }
