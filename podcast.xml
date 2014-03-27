@@ -73,6 +73,8 @@ layout: nil
 
 {% endfor %}
 
+<itunes:explicit>no</itunes:explicit>
+
 </channel>
 
 </rss>
