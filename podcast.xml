@@ -7,6 +7,8 @@ layout: nil
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
  
 <channel>
+
+<itunes:explicit>
  
 <title>Making Conversation</title>
  
@@ -41,6 +43,14 @@ layout: nil
   <itunes:category text="Design" />
 
   <itunes:category text="Visual Arts" />
+
+</itunes:category>
+
+<itunes:category text="Business" />
+ 
+  <itunes:category text="Careers" />
+
+</itunes:category>
  
 <itunes:new-feed-url>http://www.makingconversation.ca/podcast.xml</itunes:new-feed-url>
  
