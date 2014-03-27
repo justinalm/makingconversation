@@ -456,16 +456,15 @@ header, footer {
 
 /* line 17, ../sass/_structure.scss */
 header {
-  margin: 0 0 3em 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 0 0 1em 0;
 }
 
-/* line 22, ../sass/_structure.scss */
+/* line 21, ../sass/_structure.scss */
 footer {
   margin: 1em 0 0 0;
 }
 
-/* line 26, ../sass/_structure.scss */
+/* line 25, ../sass/_structure.scss */
 .rule {
   border: 0;
   height: 0;
@@ -474,25 +473,25 @@ footer {
   margin: 1em 0;
 }
 
-/* line 34, ../sass/_structure.scss */
+/* line 33, ../sass/_structure.scss */
 ul.episodes {
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin: 0.75em 0;
 }
 
-/* line 40, ../sass/_structure.scss */
+/* line 39, ../sass/_structure.scss */
 ul.episodes > li {
   padding: 2em 0 1.5em 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 45, ../sass/_structure.scss */
+/* line 44, ../sass/_structure.scss */
 ul.episodes > li h3 {
   margin: 0.5em 0;
 }
 
-/* line 49, ../sass/_structure.scss */
+/* line 48, ../sass/_structure.scss */
 ul.episodes > li:last-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
@@ -514,15 +513,32 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   line-height: 1;
   letter-spacing: 0.2em;
+  margin: 0 0 0.2em 0;
 }
 
-/* line 18, ../sass/_type.scss */
+/* line 19, ../sass/_type.scss */
+h1.logo {
+  font-family: "bello-pro",sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 3em;
+  margin: 0;
+}
+
+/* line 29, ../sass/_type.scss */
+p {
+  margin: 0 0 1em 0;
+}
+
+/* line 33, ../sass/_type.scss */
 a {
   text-decoration: none;
   color: #ff5959;
 }
 
-/* line 23, ../sass/_type.scss */
+/* line 38, ../sass/_type.scss */
 .date {
   margin: 0;
 }

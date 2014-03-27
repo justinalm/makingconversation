@@ -15,8 +15,7 @@ header, footer {
 }
 
 header {
-	margin: 0 0 3em 0;
-	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	margin: 0 0 1em 0;
 }
 
 footer {
@@ -34,7 +33,7 @@ footer {
 ul.episodes {
 	list-style: none;
 	padding: 0;
-	margin: 0;
+	margin: 0.75em 0;
 }
 
 ul.episodes > li {
