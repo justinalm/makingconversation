@@ -2,7 +2,7 @@
 layout: post
 date: 2014-03-23 10:35:28
 title: "Episode 1 – Name of Guest and Quip"
-duration: 1:50
+duration: 00:01:50
 length: 916323
 link: http://traffic.libsyn.com/makingconversation/20140201_172152.m4a
 description: This is what a description for an individual post will look like.
