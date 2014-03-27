@@ -38,11 +38,11 @@ layout: nil
  
 <itunes:category text="Arts" />
  
-	<itunes:category text="Design" />
+<itunes:category text="Design" />
 
-	<itunes:category text="Visual Arts" />
+<itunes:category text="Visual Arts" />
 
-	</itunes:category>
+</itunes:category>
  
 <itunes:new-feed-url>http://www.makingconversation.ca/podcast.xml</itunes:new-feed-url>
  
