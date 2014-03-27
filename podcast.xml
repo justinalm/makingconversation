@@ -1,0 +1,77 @@
+---
+layout: nil
+---
+ 
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+<channel>
+ 
+<title>Making Conversation</title>
+ 
+<link>http://www.makingconversation.ca</link>
+ 
+<language>en</language>
+ 
+<copyright>Copyright 2014 Justin Alm and Shawn Choi</copyright>
+ 
+<itunes:subtitle>Justin Alm and Shawn Choi have conversations with artists and designers about the journey from bright eyed-newbie to fame monster.</itunes:subtitle>
+ 
+<itunes:author>Justin Alm and Shawn Choi</itunes:author>
+ 
+<itunes:keywords>design, art, culture, career, business, interviews, conversation, humor, comedy, canada, vancouver</itunes:keywords>
+ 
+<itunes:summary>Justin Alm and Shawn Choi have conversations with artists and designers about the journey from bright eyed-newbie to fame monster.</itunes:summary>
+ 
+<description>Justin Alm and Shawn Choi have conversations with artists and designers about the journey from bright eyed-newbie to fame monster.</description>
+ 
+<itunes:owner>
+ 
+<itunes:name>Justin Alm</itunes:name>
+ 
+<itunes:email>hello@makingconversation.ca</itunes:email>
+ 
+</itunes:owner>
+ 
+<itunes:image href="http://www.makingconversation.ca/images/itunes.jpg" />
+ 
+<itunes:category text="Design" />
+ 
+<itunes:category text="Art" />
+ 
+<itunes:category text="Careers" />
+ 
+<itunes:new-feed-url>http://www.makingconversation.ca/podcast.xml</itunes:new-feed-url>
+ 
+{% for post in site.posts limit:10 %}
+ 
+<item>
+ 
+<title>{{ post.title }}</title>
+ 
+<itunes:author>Justin Alm and Shawn Choi</itunes:author>
+ 
+<itunes:subtitle>Making Conversation: {{ post.title }}</itunes:subtitle>
+ 
+<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+ 
+<itunes:image href="http://www.makingconversation.ca/images/itunes.jpg" />
+ 
+<enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+ 
+<guid>{{ post.link }}</guid>
+ 
+<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+ 
+<itunes:duration>{{ post.duration }}</itunes:duration>
+ 
+<itunes:keywords>design, art, culture, career, business, interviews, conversation, humor, comedy, canada, vancouver</itunes:keywords>
+ 
+</item>
+ 
+{% endfor %}
+ 
+</channel>
+ 
+</rss>

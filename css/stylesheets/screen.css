@@ -445,7 +445,7 @@ body {
 /* line 7, ../sass/_structure.scss */
 .container {
   max-width: 600px;
-  padding: 0 5%;
+  padding: 2% 5%;
   margin: 0 auto;
 }
 
