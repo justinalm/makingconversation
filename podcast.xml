@@ -63,7 +63,7 @@ layout: nil
 
 <itunes:duration>{{ post.duration }}</itunes:duration>
 
-<itunes:keywords>design,art,culture,career,business,interviews, conversation,humor,comedy,canada,vancouver</itunes:keywords>
+<itunes:keywords>design,art,culture,career,business,interviews,conversation,humor,comedy,canada,vancouver</itunes:keywords>
 
 </item>
 
