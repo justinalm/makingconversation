@@ -54,7 +54,7 @@ layout: nil
  
 <itunes:subtitle>Making Conversation: {{ post.title }}</itunes:subtitle>
  
-<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+<itunes:summary>{{ post.description }}</itunes:summary>
  
 <itunes:image href="http://www.makingconversation.ca/images/itunes.jpg" />
  
