@@ -36,11 +36,11 @@ layout: nil
  
 <itunes:image href="http://www.makingconversation.ca/images/itunes.jpg" />
  
-<itunes:category text="Design" />
+<itunes:category text="Arts" />
  
-<itunes:category text="Art" />
- 
-<itunes:category text="Careers" />
+  <itunes:category text="Design" />
+
+  <itunes:category text="Visual Arts" />
  
 <itunes:new-feed-url>http://www.makingconversation.ca/podcast.xml</itunes:new-feed-url>
  
