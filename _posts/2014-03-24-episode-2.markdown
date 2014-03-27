@@ -3,7 +3,7 @@ layout: post
 title:  "Episode 2 – Name of Guest and Quip"
 date:   2014-03-23 10:35:28
 description: This is what a description for an individual post will look like.
-libsyn-link: http://directory.libsyn.com/episode/index/id/2744643
+libsyn-link: http://hwcdn.libsyn.com/p/7/5/b/75bcbd1980e1364e/20140201_172152.m4a?c_id=7012498&expiration=1395888039&hwt=45959150a2e62035e47bd48d0554211e
 ---
 
 This is what a post for an individual podcast will look like.
