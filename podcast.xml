@@ -65,11 +65,11 @@ layout: nil
 
 <itunes:keywords>design,art,culture,career,business,interviews,conversation,humor,comedy,canada,vancouver</itunes:keywords>
 
+<itunes:explicit>no</itunes:explicit>
+
 </item>
 
 {% endfor %}
-
-<itunes:explicit>Yes</itunes:explicit>
 
 </channel>
 
