@@ -41,8 +41,6 @@ layout: nil
 <itunes:category text="Design" />
 
 <itunes:category text="Visual Arts" />
-
-</itunes:category>
  
 <itunes:new-feed-url>http://www.makingconversation.ca/podcast.xml</itunes:new-feed-url>
  
@@ -75,7 +73,7 @@ layout: nil
 {% endfor %}
  
 <itunes:explicit>Yes</itunes:explicit>
- 
+
 </channel>
  
 </rss>
