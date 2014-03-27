@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+
+<channel>
+
+<title>Making Conversation</title>
+
+<link>http://www.makingconversation.ca</link>
+
+<language>en</language>
+
+<copyright>Copyright 2014 Justin Alm and Shawn Choi</copyright>
+
+<itunes:subtitle>Justin Alm and Shawn Choi have conversations with artists and designers about the journey from bright eyed-newbie to fame monster.</itunes:subtitle>
+
+<itunes:author>Justin Alm and Shawn Choi</itunes:author>
+
+<itunes:keywords>design, art, culture, career, business, interviews, conversation, humor, comedy, canada, vancouver</itunes:keywords>
+
+<itunes:summary>Justin Alm and Shawn Choi have conversations with artists and designers about the journey from bright eyed-newbie to fame monster.</itunes:summary>
+
+<description>Justin Alm and Shawn Choi have conversations with artists and designers about the journey from bright eyed-newbie to fame monster.</description>
+
+<itunes:owner>
+
+<itunes:name>Justin Alm</itunes:name>
+
+<itunes:email>hello@makingconversation.ca</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://www.makingconversation.ca/images/itunes.jpg" />
+
+<itunes:category text="Arts">
+<itunes:category text="Design"/>
+<itunes:category text="Visual Arts"/>
+</itunes:category>
+
+<itunes:new-feed-url>http://www.makingconversation.ca/podcast.xml</itunes:new-feed-url>
+
+
+<item>
+
+<title>Episode 1 – Name of Guest and Quip</title>
+
+<itunes:author>Justin Alm and Shawn Choi</itunes:author>
+
+<itunes:subtitle>Making Conversation: Episode 1 – Name of Guest and Quip</itunes:subtitle>
+
+<itunes:summary>This is what a description for an individual post will look like.</itunes:summary>
+
+<itunes:image href="http://www.makingconversation.ca/images/itunes.jpg" />
+
+<enclosure url="http://traffic.libsyn.com/makingconversation/20140201_172152.m4a" length="916323" type="audio/x-m4a" />
+
+<guid>http://traffic.libsyn.com/makingconversation/20140201_172152.m4a</guid>
+
+<pubDate>Sun, 23 Mar 2014 10:35:28 GMT</pubDate>
+
+<itunes:duration>1:50</itunes:duration>
+
+<itunes:keywords>design,art,culture,career,business,interviews,conversation,humor,comedy,canada,vancouver</itunes:keywords>
+
+</item>
+
+
+
+<itunes:explicit>Yes</itunes:explicit>
+
+</channel>
+
+</rss>
