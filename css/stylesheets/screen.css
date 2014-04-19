@@ -438,12 +438,13 @@ th {
 /* line 1, ../sass/_structure.scss */
 body {
   background: url(/images/bg.png) repeat;
+  background-size: 600px 600px;
   font-size: 1em;
   padding: 0;
   margin: 0;
 }
 
-/* line 8, ../sass/_structure.scss */
+/* line 9, ../sass/_structure.scss */
 .container {
   max-width: 600px;
   padding: 2% 5%;
@@ -451,12 +452,12 @@ body {
   background: #f2f2f2;
 }
 
-/* line 15, ../sass/_structure.scss */
+/* line 16, ../sass/_structure.scss */
 header, footer {
   padding: 1em 0;
 }
 
-/* line 19, ../sass/_structure.scss */
+/* line 20, ../sass/_structure.scss */
 header {
   float: left;
   width: 100%;
@@ -465,12 +466,12 @@ header {
   padding: 1em 0;
 }
 
-/* line 27, ../sass/_structure.scss */
+/* line 28, ../sass/_structure.scss */
 footer {
   margin: 0;
 }
 
-/* line 31, ../sass/_structure.scss */
+/* line 32, ../sass/_structure.scss */
 .rule {
   border: 0;
   height: 0;
@@ -479,44 +480,44 @@ footer {
   margin: 1em 0;
 }
 
-/* line 39, ../sass/_structure.scss */
+/* line 40, ../sass/_structure.scss */
 .album-art {
   width: 100%;
   margin: 0 auto 1em auto;
 }
 
-/* line 44, ../sass/_structure.scss */
+/* line 45, ../sass/_structure.scss */
 .artwork-subscribe {
   display: block;
   max-width: 225px;
   margin: 0;
 }
 
-/* line 50, ../sass/_structure.scss */
+/* line 51, ../sass/_structure.scss */
 .icon {
   display: inline-block;
   margin: 0 10px 0 0;
 }
 
-/* line 55, ../sass/_structure.scss */
+/* line 56, ../sass/_structure.scss */
 ul.episodes {
   list-style: none;
   padding: 0;
   margin: 0.75em 0 0 0;
 }
 
-/* line 61, ../sass/_structure.scss */
+/* line 62, ../sass/_structure.scss */
 ul.episodes > li {
   padding: 2em 0 1.5em 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 66, ../sass/_structure.scss */
+/* line 67, ../sass/_structure.scss */
 ul.episodes > li h3 {
   margin: 0.5em 0;
 }
 
-/* line 70, ../sass/_structure.scss */
+/* line 71, ../sass/_structure.scss */
 ul.episodes > li:last-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
