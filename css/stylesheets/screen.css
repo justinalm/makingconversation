@@ -437,24 +437,26 @@ th {
 
 /* line 1, ../sass/_structure.scss */
 body {
+  background: url(/images/bg.png) repeat;
   font-size: 1em;
   padding: 0;
   margin: 0;
 }
 
-/* line 7, ../sass/_structure.scss */
+/* line 8, ../sass/_structure.scss */
 .container {
   max-width: 600px;
   padding: 2% 5%;
   margin: 0 auto;
+  background: #f2f2f2;
 }
 
-/* line 13, ../sass/_structure.scss */
+/* line 15, ../sass/_structure.scss */
 header, footer {
   padding: 1em 0;
 }
 
-/* line 17, ../sass/_structure.scss */
+/* line 19, ../sass/_structure.scss */
 header {
   float: left;
   width: 100%;
@@ -463,12 +465,12 @@ header {
   padding: 1em 0;
 }
 
-/* line 25, ../sass/_structure.scss */
+/* line 27, ../sass/_structure.scss */
 footer {
   margin: 0;
 }
 
-/* line 29, ../sass/_structure.scss */
+/* line 31, ../sass/_structure.scss */
 .rule {
   border: 0;
   height: 0;
@@ -477,44 +479,44 @@ footer {
   margin: 1em 0;
 }
 
-/* line 37, ../sass/_structure.scss */
+/* line 39, ../sass/_structure.scss */
 .album-art {
   width: 100%;
   margin: 0 auto 1em auto;
 }
 
-/* line 42, ../sass/_structure.scss */
+/* line 44, ../sass/_structure.scss */
 .artwork-subscribe {
   display: block;
   max-width: 225px;
   margin: 0;
 }
 
-/* line 48, ../sass/_structure.scss */
+/* line 50, ../sass/_structure.scss */
 .icon {
   display: inline-block;
   margin: 0 10px 0 0;
 }
 
-/* line 53, ../sass/_structure.scss */
+/* line 55, ../sass/_structure.scss */
 ul.episodes {
   list-style: none;
   padding: 0;
   margin: 0.75em 0 0 0;
 }
 
-/* line 59, ../sass/_structure.scss */
+/* line 61, ../sass/_structure.scss */
 ul.episodes > li {
   padding: 2em 0 1.5em 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 64, ../sass/_structure.scss */
+/* line 66, ../sass/_structure.scss */
 ul.episodes > li h3 {
   margin: 0.5em 0;
 }
 
-/* line 68, ../sass/_structure.scss */
+/* line 70, ../sass/_structure.scss */
 ul.episodes > li:last-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
@@ -525,10 +527,9 @@ body {
   font-style: normal;
   font-weight: 400;
   color: #505050;
-  background: #f2f2f2;
 }
 
-/* line 9, ../sass/_type.scss */
+/* line 8, ../sass/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "salsbury",sans-serif;
   font-style: normal;
@@ -538,36 +539,36 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em 0;
 }
 
-/* line 18, ../sass/_type.scss */
+/* line 17, ../sass/_type.scss */
 h1.logo {
   font-size: 3em;
   margin: 0 0 0.25em 0;
 }
 
-/* line 23, ../sass/_type.scss */
+/* line 22, ../sass/_type.scss */
 h2.subscribe {
   display: inline-block;
   margin: 0 10px 0.25em 0;
 }
 
-/* line 28, ../sass/_type.scss */
+/* line 27, ../sass/_type.scss */
 .site-description {
   font-size: 1.25em;
   margin: 0 0 0.35em 0;
 }
 
-/* line 33, ../sass/_type.scss */
+/* line 32, ../sass/_type.scss */
 p {
   margin: 0 0 1em 0;
 }
 
-/* line 37, ../sass/_type.scss */
+/* line 36, ../sass/_type.scss */
 a {
   text-decoration: none;
   color: #ff5959;
 }
 
-/* line 42, ../sass/_type.scss */
+/* line 41, ../sass/_type.scss */
 .date {
   margin: 0;
 }
