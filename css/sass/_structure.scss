@@ -15,11 +15,15 @@ header, footer {
 }
 
 header {
-	margin: 0 0 1em 0;
+	float: left;
+	width: 100%;
+	margin: 0 0 2em 0;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 1em 0;
 }
 
 footer {
-	margin: 1em 0 0 0;
+	margin: 0;
 }
 
 .rule {
@@ -30,10 +34,26 @@ footer {
 	margin: 1em 0;
 }
 
+.album-art {
+	width: 100%;
+	margin: 0 auto 1em auto;
+}
+
+.artwork-subscribe {
+	display: block;
+	max-width: 225px;
+	margin: 0; 
+}
+
+.icon {
+	display: inline-block;
+	margin: 0 10px 0 0;
+}
+
 ul.episodes {
 	list-style: none;
 	padding: 0;
-	margin: 0.75em 0;
+	margin: 0.75em 0 0 0;
 }
 
 ul.episodes > li {

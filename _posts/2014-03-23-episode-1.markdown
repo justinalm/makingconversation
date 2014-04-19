@@ -1,11 +1,51 @@
 ---
 layout: post
-date: 2014-03-23 10:35:28
-title: "Episode 1 – Name of Guest and Quip"
-duration: 1:50
-length: 916323
-link: http://traffic.libsyn.com/makingconversation/20140201_172152.m4a
-description: This is what a description for an individual post will look like.
+date: 2014-04-18 10:35:28
+title: "Ep.1 – “What’s the name of this podcast?” with Studio Faculty"
+duration: 40:30
+length: 39485100
+link: http://traffic.libsyn.com/makingconversation/making-conversation-ep1-studiofaculty.m4a
+description: We learn about how Vince and Alvin met in “jail” and struggle to define ‘work’ as graphic designers. Alvin’s grandmother doesn’t understand his occupation. They tell us how they name their typefaces and how some of their fonts are unfortunately used. We learn about the conception of Commute App; Alvin doesn’t know the name of our podcast and Studio Faculty ranks #1 on Google for….
 ---
 
-This is what a post for an individual podcast will look like.
+## The Background
+We learn about how Vince and Alvin met in “jail” and struggle to define ‘work’ as graphic designers. Alvin’s grandmother doesn’t understand his occupation. They tell us how they name their typefaces and how some of their fonts are unfortunately used. We learn about the conception of Commute App; Alvin doesn’t know the name of our podcast and Studio Faculty ranks #1 on Google for….
+
+#### [Listen to the show &#9835;](http://traffic.libsyn.com/makingconversation/making-conversation-ep1-studiofaculty.m4a)
+
+- [Studio Faculty](http://studiofaculty.com/)
+- [Vince Lo](https://twitter.com/vincelo), North Vancouver, Canada
+- [Alvin Kwan](https://twitter.com/_alvinkwan), Vancouver, Canada
+- [Studio Faculty on Instagram](http://instagram.com/studiofaculty)
+
+## Starting Studio Faculty
+- Aspiring to a type of design that they didn’t see in Vancouver
+- Every designer wants to do their best
+- To do good work, sometimes you have to take a risk and do something for yourself
+- Vince’s 5 children spread across the world
+
+## Work In The Vancouver Fashion Industry
+- [Oak & Fort](http://www.oakandfort.com/)
+- [Board of Trade](http://www.boardoftradeco.com/Default.asp)
+- [Priory of Ten](http://prioryoften.com/home/)
+- [Daughters of the Empire](http://studiofaculty.com/work/branding/daughters-of-the-empire-identity/)
+- [Frozen Storm Trooper](http://farm4.static.flickr.com/3061/2599943263_786cfea348_m.jpg)
+
+## Type Design
+- [Comic Sans Pro](http://www.fonts.com/font/microsoft-corporation/comic-sans/pro-complete-family-pack)
+- [Comic Sans Project](http://comicsansproject.tumblr.com/)
+- [Practice Foundry](http://practicefoundry.com/)
+- [Fabrica Font](http://www.alvinkwan.com/project/typeface-fabrica)
+- [Collator Font](http://vincelo.com/print/collator-specimen)
+- [Narrator Font](http://vincelo.com/typography/narrator)
+
+## Web Fame
+- [Collator on Designspiration.net](http://designspiration.net/tag/collator/)
+- [Studio Faculty on SiteInspire.com](http://www.siteinspire.com/websites/3766-faculty)
+
+## Commute App
+- [This Is Commute](http://www.thisiscommute.com/)
+- [Commute App on the App Store](https://itunes.apple.com/us/app/commute-app/id704137885?ls=1&mt=8)
+- [Ben Wu on Behance](http://www.behance.net/benwu)
+- Shawn’s [Kama Sutra App](https://itunes.apple.com/us/app/isutras-kamasutra-in-your/id348937808?mt=8) idea is already in existence
+- [Cougars.net](http://www.cougars.net/) also exists!

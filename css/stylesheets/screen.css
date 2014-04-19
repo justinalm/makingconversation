@@ -456,15 +456,19 @@ header, footer {
 
 /* line 17, ../sass/_structure.scss */
 header {
-  margin: 0 0 1em 0;
-}
-
-/* line 21, ../sass/_structure.scss */
-footer {
-  margin: 1em 0 0 0;
+  float: left;
+  width: 100%;
+  margin: 0 0 2em 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1em 0;
 }
 
 /* line 25, ../sass/_structure.scss */
+footer {
+  margin: 0;
+}
+
+/* line 29, ../sass/_structure.scss */
 .rule {
   border: 0;
   height: 0;
@@ -473,25 +477,44 @@ footer {
   margin: 1em 0;
 }
 
-/* line 33, ../sass/_structure.scss */
+/* line 37, ../sass/_structure.scss */
+.album-art {
+  width: 100%;
+  margin: 0 auto 1em auto;
+}
+
+/* line 42, ../sass/_structure.scss */
+.artwork-subscribe {
+  display: block;
+  max-width: 225px;
+  margin: 0;
+}
+
+/* line 48, ../sass/_structure.scss */
+.icon {
+  display: inline-block;
+  margin: 0 10px 0 0;
+}
+
+/* line 53, ../sass/_structure.scss */
 ul.episodes {
   list-style: none;
   padding: 0;
-  margin: 0.75em 0;
+  margin: 0.75em 0 0 0;
 }
 
-/* line 39, ../sass/_structure.scss */
+/* line 59, ../sass/_structure.scss */
 ul.episodes > li {
   padding: 2em 0 1.5em 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 44, ../sass/_structure.scss */
+/* line 64, ../sass/_structure.scss */
 ul.episodes > li h3 {
   margin: 0.5em 0;
 }
 
-/* line 48, ../sass/_structure.scss */
+/* line 68, ../sass/_structure.scss */
 ul.episodes > li:last-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
@@ -507,38 +530,58 @@ body {
 
 /* line 9, ../sass/_type.scss */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "omnes-pro",sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  text-transform: uppercase;
-  line-height: 1;
-  letter-spacing: 0.2em;
-  margin: 0 0 0.2em 0;
-}
-
-/* line 19, ../sass/_type.scss */
-h1.logo {
-  font-family: "bello-pro",sans-serif;
+  font-family: "salsbury",sans-serif;
   font-style: normal;
   font-weight: 400;
-  text-transform: none;
-  letter-spacing: 0;
+  text-transform: uppercase;
+  line-height: 1;
+  margin: 1em 0 0.5em 0;
+}
+
+/* line 18, ../sass/_type.scss */
+h1.logo {
   font-size: 3em;
   margin: 0 0 0.25em 0;
 }
 
-/* line 29, ../sass/_type.scss */
+/* line 23, ../sass/_type.scss */
+h2.subscribe {
+  display: inline-block;
+  margin: 0 10px 0.25em 0;
+}
+
+/* line 28, ../sass/_type.scss */
+.site-description {
+  font-size: 1.25em;
+  margin: 0 0 0.35em 0;
+}
+
+/* line 33, ../sass/_type.scss */
 p {
   margin: 0 0 1em 0;
 }
 
-/* line 33, ../sass/_type.scss */
+/* line 37, ../sass/_type.scss */
 a {
   text-decoration: none;
   color: #ff5959;
 }
 
-/* line 38, ../sass/_type.scss */
+/* line 42, ../sass/_type.scss */
 .date {
   margin: 0;
+}
+
+/* Break at 23em 700px */
+@media (min-width: 43em) {
+  /* line 4, ../sass/_break-tablet.scss */
+  .album-art {
+    margin: 0 0 1em 0;
+  }
+
+  /* line 8, ../sass/_break-tablet.scss */
+  .artwork-subscribe {
+    float: left;
+    margin: 0 1em 0 0;
+  }
 }
