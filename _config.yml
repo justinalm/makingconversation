@@ -2,3 +2,4 @@ name: Making Conversation
 description: A podcast featuring conversations with artists and designers about the journey from bright eyed-newbie to fame monster.
 pygments: true
 permalinks: none
+markdown: kramdown
