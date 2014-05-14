@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-05-114 10:57:28
-title: "Ep.3 – “You don’t do yoga. You are yoga” with Karston Smith from LuLuLemon"
+title: "Ep.3 – “You do not do yoga. You are yoga” with Karston Smith from LuLuLemon"
 duration: 50:01
 length: 24575029
 link: http://traffic.libsyn.com/makingconversation/making-conversation-ep3-karstonsmith.m4a
