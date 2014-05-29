@@ -4,13 +4,13 @@ date: 2014-05-1 10:54:28
 title: "Ep.2 – “Hastag Respect” with Trim Projects"
 duration: 55:01
 length: 53627073
-link: http://traffic.libsyn.com/makingconversation/making-conversation-ep2-trimprojects.m4a
+link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/147434502
 description: Kriza is a designer, art director, ad-person, publication designer, and founder of Trim Projects. She doesn’t know where she’s from and neither does Shawn. Shawn just applied for Canadian citizenship, so he has to tone down his jokes.
 ---
 
 Kriza is a designer, art director, ad-person, publication designer, and founder of Trim Projects. She doesn’t know where she’s from and neither does Shawn. Shawn just applied for Canadian citizenship, so he has to tone down his jokes.
 
-#### [Listen to the show &#9835;](http://traffic.libsyn.com/makingconversation/making-conversation-ep2-trimprojects.m4a)
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/147434502&amp;color=ff5959&amp;auto_play=false&amp;hide_related=false&amp;show_artwork=true"></iframe>
 
 ## Contact
 
