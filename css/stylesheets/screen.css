@@ -468,11 +468,10 @@ header {
 
 /* line 28, ../sass/_structure.scss */
 footer {
-  padding: 2em 0 1em 0;
   margin: 0;
 }
 
-/* line 33, ../sass/_structure.scss */
+/* line 32, ../sass/_structure.scss */
 .rule {
   border: 0;
   height: 0;
@@ -481,56 +480,56 @@ footer {
   margin: 1em 0;
 }
 
-/* line 41, ../sass/_structure.scss */
+/* line 40, ../sass/_structure.scss */
 .album-art {
   width: 100%;
   margin: 0 auto 1em auto;
 }
 
-/* line 46, ../sass/_structure.scss */
+/* line 45, ../sass/_structure.scss */
 .artwork-subscribe {
   display: block;
   max-width: 200px;
   margin: 0;
 }
 
-/* line 52, ../sass/_structure.scss */
+/* line 51, ../sass/_structure.scss */
 .icon {
   display: inline-block;
   margin: 0 10px 0 0;
 }
 
-/* line 57, ../sass/_structure.scss */
+/* line 56, ../sass/_structure.scss */
 ul.episodes {
   list-style: none;
   padding: 0;
   margin: 0.75em 0 0 0;
 }
 
-/* line 63, ../sass/_structure.scss */
+/* line 62, ../sass/_structure.scss */
 ul.episodes > li {
   padding: 2em 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 68, ../sass/_structure.scss */
+/* line 67, ../sass/_structure.scss */
 ul.episodes > li h3 {
   margin: 0.5em 0;
 }
 
-/* line 72, ../sass/_structure.scss */
+/* line 71, ../sass/_structure.scss */
 ul.episodes > li:last-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 76, ../sass/_structure.scss */
+/* line 75, ../sass/_structure.scss */
 .pagination {
   text-align: center;
   padding: 1em 0 0 0;
   border-top: 1px solid #ececec;
 }
 
-/* line 82, ../sass/_structure.scss */
+/* line 81, ../sass/_structure.scss */
 .previous {
   float: left;
   display: inline-block;
@@ -538,7 +537,7 @@ ul.episodes > li:last-child {
   margin: 0;
 }
 
-/* line 89, ../sass/_structure.scss */
+/* line 88, ../sass/_structure.scss */
 .next {
   float: right;
   display: inline-block;
@@ -547,13 +546,13 @@ ul.episodes > li:last-child {
   margin: 0;
 }
 
-/* line 97, ../sass/_structure.scss */
+/* line 96, ../sass/_structure.scss */
 .page-navigation {
   margin: 0 auto;
   text-align: center;
 }
 
-/* line 102, ../sass/_structure.scss */
+/* line 101, ../sass/_structure.scss */
 .left {
   float: left;
   display: inline-block;
@@ -561,7 +560,7 @@ ul.episodes > li:last-child {
   margin: 1em 0;
 }
 
-/* line 109, ../sass/_structure.scss */
+/* line 108, ../sass/_structure.scss */
 .right {
   float: right;
   display: inline-block;
@@ -570,7 +569,7 @@ ul.episodes > li:last-child {
   overflow: hidden;
 }
 
-/* line 117, ../sass/_structure.scss */
+/* line 116, ../sass/_structure.scss */
 .clearfix:after {
   content: ".";
   visibility: hidden;
