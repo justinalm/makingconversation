@@ -60,7 +60,7 @@ ul.episodes {
 }
 
 ul.episodes > li {
-	padding: 2em 0 1.5em 0;
+	padding: 2em 0;
 	border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
@@ -70,4 +70,53 @@ ul.episodes > li h3 {
 
 ul.episodes > li:last-child {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.pagination {
+  text-align: center;
+  padding: 1em 0 0 0;
+  border-top: 1px solid rgb(236, 236, 236);
+}
+
+.previous {
+  float: left;
+  display: inline-block;
+  padding: 0em;
+  margin: 0;
+}
+
+.next {
+  float: right;
+  display: inline-block;
+  overflow: hidden;
+  padding: 0em;
+  margin: 0;
+}
+
+.page-navigation {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.left {
+  float: left;
+  display: inline-block;
+  padding: 0em;
+  margin: 1em 0;
+}
+
+.right {
+  float: right;
+  display: inline-block;
+  padding: 0em;
+  margin: 1em 0;
+  overflow: hidden;
+}
+
+.clearfix:after { 
+   content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
 }

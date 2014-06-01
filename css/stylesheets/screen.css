@@ -508,7 +508,7 @@ ul.episodes {
 
 /* line 62, ../sass/_structure.scss */
 ul.episodes > li {
-  padding: 2em 0 1.5em 0;
+  padding: 2em 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
@@ -520,6 +520,62 @@ ul.episodes > li h3 {
 /* line 71, ../sass/_structure.scss */
 ul.episodes > li:last-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+/* line 75, ../sass/_structure.scss */
+.pagination {
+  text-align: center;
+  padding: 1em 0 0 0;
+  border-top: 1px solid #ececec;
+}
+
+/* line 81, ../sass/_structure.scss */
+.previous {
+  float: left;
+  display: inline-block;
+  padding: 0em;
+  margin: 0;
+}
+
+/* line 88, ../sass/_structure.scss */
+.next {
+  float: right;
+  display: inline-block;
+  overflow: hidden;
+  padding: 0em;
+  margin: 0;
+}
+
+/* line 96, ../sass/_structure.scss */
+.page-navigation {
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* line 101, ../sass/_structure.scss */
+.left {
+  float: left;
+  display: inline-block;
+  padding: 0em;
+  margin: 1em 0;
+}
+
+/* line 108, ../sass/_structure.scss */
+.right {
+  float: right;
+  display: inline-block;
+  padding: 0em;
+  margin: 1em 0;
+  overflow: hidden;
+}
+
+/* line 116, ../sass/_structure.scss */
+.clearfix:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
 }
 
 /* line 1, ../sass/_type.scss */
