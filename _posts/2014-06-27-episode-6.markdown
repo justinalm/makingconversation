@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2014-05-30 05:15:00
+date: 2014-06-27 07:10:00
 title: "Ep.6 – “I had to kill my salami!” with Jane Koo"
-duration: 1:24:06
+duration: 44:35
 length: 21910935
 link: https://soundcloud.com/makingconversation/ep6-i-had-to-kill-my-salami-with-jane-koo
 description: Jane Koo designs for some of Vancouver’s most iconic publications and community events. Jane shared about her new found freedom in freelance, the joy of working on the road, the importance of style, her passion for food, and the one project she feels most proud of in her portfolio.
