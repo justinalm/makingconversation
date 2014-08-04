@@ -464,14 +464,16 @@ header {
   margin: 0 0 2em 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   padding: 1em 0;
+  line-height: 1.4;
 }
 
-/* line 28, ../sass/_structure.scss */
+/* line 29, ../sass/_structure.scss */
 footer {
   margin: 0;
+  line-height: 1.2;
 }
 
-/* line 32, ../sass/_structure.scss */
+/* line 34, ../sass/_structure.scss */
 .rule {
   border: 0;
   height: 0;
@@ -480,56 +482,56 @@ footer {
   margin: 1em 0;
 }
 
-/* line 40, ../sass/_structure.scss */
+/* line 42, ../sass/_structure.scss */
 .album-art {
   width: 100%;
   margin: 0 auto 1em auto;
 }
 
-/* line 45, ../sass/_structure.scss */
+/* line 47, ../sass/_structure.scss */
 .artwork-subscribe {
   display: block;
   max-width: 200px;
   margin: 0;
 }
 
-/* line 51, ../sass/_structure.scss */
+/* line 53, ../sass/_structure.scss */
 .icon {
   display: inline-block;
   margin: 0 10px 0 0;
 }
 
-/* line 56, ../sass/_structure.scss */
+/* line 58, ../sass/_structure.scss */
 ul.episodes {
   list-style: none;
   padding: 0;
   margin: 0.75em 0 0 0;
 }
 
-/* line 62, ../sass/_structure.scss */
+/* line 64, ../sass/_structure.scss */
 ul.episodes > li {
   padding: 2em 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 67, ../sass/_structure.scss */
+/* line 69, ../sass/_structure.scss */
 ul.episodes > li h3 {
   margin: 0.5em 0;
 }
 
-/* line 71, ../sass/_structure.scss */
+/* line 73, ../sass/_structure.scss */
 ul.episodes > li:last-child {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* line 75, ../sass/_structure.scss */
+/* line 77, ../sass/_structure.scss */
 .pagination {
   text-align: center;
   padding: 1em 0 0 0;
   border-top: 1px solid #ececec;
 }
 
-/* line 81, ../sass/_structure.scss */
+/* line 83, ../sass/_structure.scss */
 .previous {
   float: left;
   display: inline-block;
@@ -537,7 +539,7 @@ ul.episodes > li:last-child {
   margin: 0;
 }
 
-/* line 88, ../sass/_structure.scss */
+/* line 90, ../sass/_structure.scss */
 .next {
   float: right;
   display: inline-block;
@@ -546,13 +548,13 @@ ul.episodes > li:last-child {
   margin: 0;
 }
 
-/* line 96, ../sass/_structure.scss */
+/* line 98, ../sass/_structure.scss */
 .page-navigation {
   margin: 0 auto;
   text-align: center;
 }
 
-/* line 101, ../sass/_structure.scss */
+/* line 103, ../sass/_structure.scss */
 .left {
   float: left;
   display: inline-block;
@@ -560,7 +562,7 @@ ul.episodes > li:last-child {
   margin: 1em 0;
 }
 
-/* line 108, ../sass/_structure.scss */
+/* line 110, ../sass/_structure.scss */
 .right {
   float: right;
   display: inline-block;
@@ -569,7 +571,7 @@ ul.episodes > li:last-child {
   overflow: hidden;
 }
 
-/* line 116, ../sass/_structure.scss */
+/* line 118, ../sass/_structure.scss */
 .clearfix:after {
   content: ".";
   visibility: hidden;
@@ -584,9 +586,10 @@ body {
   font-style: normal;
   font-weight: 400;
   color: #505050;
+  line-height: 1.8;
 }
 
-/* line 8, ../sass/_type.scss */
+/* line 9, ../sass/_type.scss */
 h1, h2, h3, h4, h5, h6 {
   font-family: "salsbury",sans-serif;
   font-style: normal;
@@ -596,36 +599,36 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em 0;
 }
 
-/* line 17, ../sass/_type.scss */
+/* line 18, ../sass/_type.scss */
 h1.logo {
   font-size: 3em;
   margin: 0 0 0.25em 0;
 }
 
-/* line 22, ../sass/_type.scss */
+/* line 23, ../sass/_type.scss */
 h2.subscribe {
   display: inline-block;
   margin: 0 10px 0.25em 0;
 }
 
-/* line 27, ../sass/_type.scss */
+/* line 28, ../sass/_type.scss */
 .site-description {
   font-size: 1.25em;
   margin: 0 0 0.35em 0;
 }
 
-/* line 32, ../sass/_type.scss */
+/* line 33, ../sass/_type.scss */
 p {
   margin: 0 0 1em 0;
 }
 
-/* line 36, ../sass/_type.scss */
+/* line 37, ../sass/_type.scss */
 a {
   text-decoration: none;
   color: #ff5959;
 }
 
-/* line 41, ../sass/_type.scss */
+/* line 42, ../sass/_type.scss */
 .date {
   margin: 0;
 }
