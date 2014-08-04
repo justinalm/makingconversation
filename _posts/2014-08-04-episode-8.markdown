@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-07-25 12:00:00
-title: "“We have to do this.” with Tom Chung of Umbra Shift"
+title: "Ep. 8 – “We have to do this.” with Tom Chung of Umbra Shift"
 duration: 45:52
 length: 44029791
 link: https://soundcloud.com/makingconversation/ep-7-i-am-a-tool-with-jace-kim
