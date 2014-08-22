@@ -4,8 +4,8 @@ date: 2014-07-25 12:00:00
 title: "Ep. 8 – “We have to do this.” with Tom Chung of Umbra Shift"
 duration: 45:52
 length: 44029791
-link: https://soundcloud.com/makingconversation/ep-7-i-am-a-tool-with-jace-kim
-description: 
+link: https://soundcloud.com/makingconversation/ep8-tomchung
+description: For Episode 8, we chat with Tom Chung, a designer working for Umbra, a Toronto-based homeware design company. He is the creative lead of their product line Umbra Shift that will be launching in Vancouver August 5th, 2014, at Vancouver Special.
 ---
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/161454647%3Fsecret_token%3Ds-3NPEe&amp;color=ff5959&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
