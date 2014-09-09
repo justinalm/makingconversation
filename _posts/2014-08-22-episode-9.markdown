@@ -4,7 +4,7 @@ date: 2014-08-22 15:22:00
 title: "Ep. 9 – “What? You did that?” with Post Projects"
 duration: 51:25
 length: 49367585
-link: https://soundcloud.com/makingconversation/ep-7-i-am-a-tool-with-jace-kim
+link: https://soundcloud.com/makingconversation/ep-9-what-you-did-that-with-post-projects
 description: For Episode 9, we chat with Alex Nelson and Beau House of Post Projects. We chat about how they met, started a design company, and decided to call it Post Projects.
 ---
 
