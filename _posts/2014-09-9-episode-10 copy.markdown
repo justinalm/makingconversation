@@ -1,0 +1,18 @@
+---
+layout: post
+date: 2014-10-03 17:25:00
+title: "Ep.11 – “The most important developments in humanity” with Working Format"
+duration: 67:00
+length: 64379529
+link: https://soundcloud.com/makingconversation/ep11-the-most-important-developments-in-humanity-with-working-format
+description: For Episode 11, we chat about type design, the Vancouver design scene, and the most important development in the history of the world with Ross Milne of Working Format.
+---
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170542710&amp;color=ff5959&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+For Episode 11, we chat with Ross Milne of [Working Format](http://www.workingformat.com). We discussed Mr. Milne’s experience studying type design in the [Type and Media Masters program](http://www.kabk.nl/pageEN.php?id=16) at [The Royal Academy of Art](http://www.kabk.nl/) in The Hague, The Netherlands. We talk about the founding of Working Format’s, how their name, and their design mentality of, “let’s just do this”. We discussed Ross’ work on fonts [Charlie](https://www.typotheque.com/fonts/charlie), [Publico](https://commercialtype.com/typefaces/publico), and [Stag](https://commercialtype.com/typefaces/stag). This led to the practice of font naming, how fonts are marketed, how people use fonts, Australia’s love for Ross’ work, and how fonts live in the software ecosystem. We talk about Working Format’s community oriented initiative [Platform Gallery](http://www.theplatformgallery.ca/) and their ambition to get art and design into the everyday lives of Vancouverites. Enjoy all this and so much more!
+
+## Contact Post Projects
+- [Working Format’s Website](www.workingformat.com/)
+- [Working Format on Instagram](instagram.com/workingformat)
+- [Working Format on Twitter](twitter.com/workingformat)
